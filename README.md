@@ -45,10 +45,10 @@ post_manager/
 ### 3. Mengedit Postingan
 <img width="1420" height="1145" alt="image" src="https://github.com/user-attachments/assets/2ec4c5bb-532b-4321-bb54-64250a4dea29" />
 
-### 3. Melihat Detail Postingan
+### 4. Melihat Detail Postingan
 <img width="493" height="554" alt="image" src="https://github.com/user-attachments/assets/ff7ef2f5-4b0d-48f5-bb16-e9ad1f1a00b9" />
 
-### 4. Menghapus Postingan
+### 5. Menghapus Postingan
 <img width="1415" height="1146" alt="image" src="https://github.com/user-attachments/assets/ad9ea0f2-e2df-4d5a-b183-e4592c5b9843" />
 
 ## Cara Menjalankan
